@@ -65,7 +65,7 @@ git push -u origin <branch_name>
 >Now click on `compare and pull requests`
 
 <p align"center"> <h3>Don't forget to give it a star 
- <img src="https://media.giphy.com/media/Jmgx0H8XlE9uhquL6t/giphy.gif" width="250px" >
+ <img src="https://img.icons8.com/color/48/000000/happy--v3.png"/>
  </br>
 Have a nice day.</h3> </p>
 
