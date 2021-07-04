@@ -8,7 +8,7 @@ screen = Screen()
 screen.bgcolor("black")
 screen.setup(width=800, height=600)
 screen.title("Pong")
-screen.tracer(0)
+screen.tracer(0)  #Turning off animation
 
 r_paddle = Paddle((350, 0))
 l_paddle = Paddle((-350, 0))
@@ -21,9 +21,10 @@ screen.onkey(r_paddle.go_down, "Down")
 screen.onkey(l_paddle.go_up, "w")
 screen.onkey(l_paddle.go_down, "s")
 
-game_is_on = True
+game_is_on = True                         
 while game_is_on:
-    screen.update()
+    time.sleep(ball.move_speed)
+    screen.update()              #to turn on animation so update
     ball.move()
 
     #Detect collision with wall
