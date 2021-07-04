@@ -65,7 +65,7 @@ git push -u origin <branch_name>
 >Now click on `compare and pull requests`
 
 <p align"center"> <h3>Don't forget to give it a star 
- <div class="tenor-gif-embed" data-postid="13925723" data-share-method="host" data-width="100%" data-aspect-ratio="1.0"><a href="https://tenor.com/view/bye-smile-hi-wave-waving-gif-13925723"></a>  <a href="https://tenor.com/search/bye-gifs">Bye GIFs</a></div><script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+ <img src="https://tenor.com/view/bye-smile-hi-wave-waving-gif-13925723" width="250px" >
  </br>
 Have a nice day.</h3> </p>
 
