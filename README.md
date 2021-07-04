@@ -63,5 +63,5 @@ git push -u origin <branch_name>
 **10.** To make pull request:
 >Now click on `compare and pull requests`
 
-<p align"center"> <h3>Don't forget to give it a star :)
+<p align"center"> <h3>Don't forget to give it a star :) </br>
 Have a nice day.</h3> </p>
