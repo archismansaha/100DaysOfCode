@@ -3,7 +3,7 @@ class Paddle(turtle):
 
     def __init_(self,position):
         
-
+        super().__init__()
         self=turtle.Turtle()
 
         self.shape("square")
