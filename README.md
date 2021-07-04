@@ -64,7 +64,7 @@ git push -u origin <branch_name>
 
 >Now click on `compare and pull requests`
 
-<p align"center"> <h3>Don't forget to give it a star</h3> <img src="https://img.icons8.com/emoji/48/000000/glowing-star.png" width="30px"/>
+## Don't forget to give it a star <img src="https://img.icons8.com/emoji/48/000000/glowing-star.png" width="30px"/>
  
  </br>
 Have a nice day.</h3> </p>
