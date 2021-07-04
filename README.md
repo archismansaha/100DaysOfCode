@@ -67,5 +67,5 @@ git push -u origin <branch_name>
 ## Don't forget to give it a star <img src="https://img.icons8.com/emoji/48/000000/glowing-star.png" width="30px"/>
  
  </br>
-Have a nice day.</h3> </p>
+Have a nice day. <img src="https://img.icons8.com/emoji/48/000000/smiling-face-with-smiling-eyes.png"/>
 
