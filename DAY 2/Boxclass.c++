@@ -1,15 +1,5 @@
 /* https://www.hackerrank.com/challenges/inherited-code/problem?h_r=next-challenge&h_v=zen */
 
-
-
-
-
-
-
-
-
-
-
 #include <cmath>
 #include <cstdio>
 #include <vector>
