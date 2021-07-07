@@ -16,6 +16,7 @@ This repo is made to share my 100DaysOfCoding jounrney . Feel free to raise issu
 
 
 **1.** Fork [this](https://github.com/archismansaha/100DaysOfCode.git) repo.
+![fork](./Images/Capture.PNG)
 
  **2.** Clone repo:
  >The 'clone' command used to make an exact copy of the repository to your local machine.

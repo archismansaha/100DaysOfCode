@@ -40,11 +40,6 @@ int helper(int* arr,int s,int e,int num){
      return numpair; 
 }
 
-
-
-
-
-
 int tripletSum(int *arr, int n, int num)
 { 
     sort(arr,arr+n);
