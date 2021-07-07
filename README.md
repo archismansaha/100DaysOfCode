@@ -29,13 +29,13 @@ This repo is made to share my 100DaysOfCoding jounrney . Feel free to raise issu
 cd 100DaysOfCode
 ```
 **4.** Add a reference (remote) to the original repository:
-
+> Setting a remote upstream and fetching it time to time makes sure your forked repo is in sync with the original repo.To set upstream(only use once):
 ```
 git remote add upstream https://github.com/archismansaha/100DaysOfCode.git
 ```
 
 **5.** Take a pull from the upstream main to make ypur repo up to date:
-
+>To fetch(everytime you want to fetch run this):
 ```
 git pull upstream main
 ```
