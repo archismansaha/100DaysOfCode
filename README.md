@@ -18,6 +18,7 @@ This repo is made to share my 100DaysOfCoding jounrney . Feel free to raise issu
 **1.** Fork [this](https://github.com/archismansaha/100DaysOfCode.git) repo.
 
  **2.** Clone repo:
+ >The 'clone' command used to make an exact copy of the repository to your local machine.
  
  ```
  git clone https://github.com/archismansaha/100DaysOfCode.git 
@@ -39,6 +40,7 @@ git remote add upstream https://github.com/archismansaha/100DaysOfCode.git
 git pull upstream main
 ```
 **6.** Make new branch(change branch name as you want):
+> In branch your changes doesnot affect production code . It's used to make production code bug free. And you should make branches when to do any changes in any code. 
 ```
 git checkout -b <branch_name>
 ```
@@ -52,11 +54,13 @@ git add .
 ```
 
 **8.** Commit changes:
+>This 'commit' command save your  changes to local repository.
 
 ```
 git commit -m "<relevant message to your change>"
 ```
 **9.** Push changes(change branch_name to that which you made during creating branch):
+>The 'push' command  syncs your commits to GitLab.
 ```
 git push -u origin <branch_name>
 ```
