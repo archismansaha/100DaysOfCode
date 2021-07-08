@@ -69,7 +69,11 @@ git push -u origin <branch_name>
 
 >Now click on `compare and pull requests`
 
-![Pull Request](./Images/Capture23.png)
+![Pull Request](./Images/final.PNG)
+
+
+
+
 
 ## Don't forget to give it a star <img src="https://img.icons8.com/emoji/48/000000/glowing-star.png" width="30px"/>
  
