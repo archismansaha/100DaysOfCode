@@ -12,6 +12,6 @@ data_dict={
     "Fun Color":["Gray","Cinnamon","Black"],
     "Count":[grey_count,red_count,balck_count]
 }
-dataf=pandas.DataFrame(data_dict) #getting hold of csv to get hold od data frame
+dataf=pandas.DataFrame(data_dict) #getting hold of csv to get hold of data frame
 dataf.to_csv("data.csv")
 
