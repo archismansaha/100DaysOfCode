@@ -9,9 +9,4 @@ my_label.pack(side="left",expand="True") #place into the screen and display
 
 
 
-
-
-
-
-
 window.mainloop()
