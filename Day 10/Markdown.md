@@ -193,12 +193,16 @@ For icon:
 Example: :blush:
 
 Icon:
+
+
  <a href = "https://www.linkedin.com/in/archisman-saha-596615212/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 
 Here is a complete list of emoji shortcodes: <https://gist.github.com/rxaviers/7360908>
 
 ***
 If you like it dont forget to star it and do connect in :
+
+
 <a href = "https://www.linkedin.com/in/archisman-saha-596615212/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 
 ## Here is a online markdown editor you can try :
