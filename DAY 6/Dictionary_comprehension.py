@@ -17,4 +17,5 @@ weather_c={
     "Thursday":21,
 }
 new_dict={day:((temp*9/5)+32) for (day,temp) in weather_c.items()}
+
 print(new_dict)
